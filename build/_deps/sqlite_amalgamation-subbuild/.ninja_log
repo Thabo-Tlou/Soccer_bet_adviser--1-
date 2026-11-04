@@ -1,0 +1,21 @@
+# ninja log v6
+8911	8939	1793709716725699276	sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-build	42483c1fa87cdb6e
+8940	8970	1793709716755714275	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-install	a65d1a1e45a4065
+8997	9036	1793709716821747270	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/CMakeFiles/sqlite_amalgamation-populate-complete	449fcdf426c1e300
+8830	8857	1793709716642657782	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-update	332f57694a439ec3
+8884	8911	1793709716696684778	sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-configure	6366cc0730148a27
+8997	9036	1793709716821747270	CMakeFiles/sqlite_amalgamation-populate-complete	449fcdf426c1e300
+8857	8884	1793709716669671280	sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-patch	30bb4dcedeb5622d
+32	8830	1793709716615644283	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-download	949d0ae00b355090
+32	8830	1793709716615644283	sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-download	949d0ae00b355090
+1	31	1793709707816247325	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-mkdir	80fe1d9059afb8f6
+8857	8884	1793709716669671280	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-patch	30bb4dcedeb5622d
+8970	8996	1793709716782727773	sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-test	5e83728e2752487
+8997	9036	1793709716821747270	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-done	449fcdf426c1e300
+8884	8911	1793709716696684778	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-configure	6366cc0730148a27
+1	31	1793709707816247325	sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-mkdir	80fe1d9059afb8f6
+8940	8970	1793709716755714275	sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-install	a65d1a1e45a4065
+8997	9036	1793709716821747270	sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-done	449fcdf426c1e300
+8970	8996	1793709716782727773	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-test	5e83728e2752487
+8830	8857	1793709716642657782	sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-update	332f57694a439ec3
+8911	8939	1793709716725699276	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/sqlite_amalgamation-subbuild/sqlite_amalgamation-populate-prefix/src/sqlite_amalgamation-populate-stamp/sqlite_amalgamation-populate-build	42483c1fa87cdb6e

@@ -1,0 +1,21 @@
+# ninja log v6
+2	194	1793709704552616525	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-mkdir	28fb65806167ce15
+2943	2993	1793709707372025352	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-done	2935252f4df4158d
+2614	2663	1793709707039859373	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-update	b438ebe725bdd9f3
+195	2614	1793709706990834876	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-download	dd740405ec6955e9
+2943	2993	1793709707372025352	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/CMakeFiles/nlohmann_json-populate-complete	2935252f4df4158d
+2943	2993	1793709707372025352	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-done	2935252f4df4158d
+2614	2663	1793709707039859373	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-update	b438ebe725bdd9f3
+2711	2787	1793709707162920865	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-configure	ad67fb46bf10b453
+195	2614	1793709706990834876	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-download	dd740405ec6955e9
+2943	2993	1793709707372025352	CMakeFiles/nlohmann_json-populate-complete	2935252f4df4158d
+2	194	1793709704552616525	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-mkdir	28fb65806167ce15
+2911	2943	1793709707322000355	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-test	724d5a1f22379daf
+2870	2910	1793709707287983357	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-install	ccf493255ac5382b
+2787	2869	1793709707247963360	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-build	558719818d76cbc4
+2787	2869	1793709707247963360	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-build	558719818d76cbc4
+2870	2910	1793709707287983357	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-install	ccf493255ac5382b
+2711	2787	1793709707162920865	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-configure	ad67fb46bf10b453
+2664	2711	1793709707089884369	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-patch	f5e022ecdabfd2f
+2911	2943	1793709707322000355	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-test	724d5a1f22379daf
+2664	2711	1793709707089884369	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-patch	f5e022ecdabfd2f

@@ -1,0 +1,21 @@
+# ninja log v6
+11967	12002	1793709728959812523	onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-build	e2de2390fcede560
+34	11859	1793709728816741031	onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-download	2de08272885d3900
+12003	12036	1793709728994830021	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-install	575bd74372e8a31
+12077	12149	1793709729106886014	CMakeFiles/onnxruntime-populate-complete	85e7bbb291791bb5
+12077	12149	1793709729106886014	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/CMakeFiles/onnxruntime-populate-complete	85e7bbb291791bb5
+12077	12149	1793709729106886014	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-done	85e7bbb291791bb5
+11929	11967	1793709728923794525	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-configure	a9632274bfebccff
+11859	11893	1793709728850758029	onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-update	f508217bbb1b79ad
+11929	11967	1793709728923794525	onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-configure	a9632274bfebccff
+12003	12036	1793709728994830021	onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-install	575bd74372e8a31
+2	34	1793709716991832260	onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-mkdir	3f2a8e254f3408b4
+12077	12149	1793709729106886014	onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-done	85e7bbb291791bb5
+34	11859	1793709728816741031	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-download	2de08272885d3900
+11967	12002	1793709728959812523	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-build	e2de2390fcede560
+11893	11929	1793709728886776027	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-patch	383c15c5708179bd
+12037	12077	1793709729033849518	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-test	431db49bbfc944f9
+12037	12077	1793709729033849518	onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-test	431db49bbfc944f9
+11859	11893	1793709728850758029	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-update	f508217bbb1b79ad
+2	34	1793709716991832260	/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-mkdir	3f2a8e254f3408b4
+11893	11929	1793709728886776027	onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-patch	383c15c5708179bd

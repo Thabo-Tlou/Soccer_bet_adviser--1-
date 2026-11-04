@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/sba_tests.dir/link.d CMakeFiles/sba_tests.dir/tests/test_core.cpp.o -o sba_tests  -Wl,-rpath,/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-src/lib libsba_core.a libsba_sqlite.a -ldl -lpthread _deps/onnxruntime-src/lib/libonnxruntime.so

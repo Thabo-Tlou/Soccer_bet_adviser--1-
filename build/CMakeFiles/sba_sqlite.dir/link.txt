@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsba_sqlite.a "CMakeFiles/sba_sqlite.dir/_deps/sqlite_amalgamation-src/sqlite3.c.o"
-/usr/bin/ranlib libsba_sqlite.a
