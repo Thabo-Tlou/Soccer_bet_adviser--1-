@@ -1,0 +1,14 @@
+# Target labels
+ onnxruntime-populate
+# Source files and their labels
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/CMakeFiles/onnxruntime-populate
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/CMakeFiles/onnxruntime-populate.rule
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/CMakeFiles/onnxruntime-populate-complete.rule
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-build.rule
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-configure.rule
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-download.rule
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-install.rule
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-mkdir.rule
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-patch.rule
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-test.rule
+/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/onnxruntime-subbuild/onnxruntime-populate-prefix/src/onnxruntime-populate-stamp/onnxruntime-populate-update.rule

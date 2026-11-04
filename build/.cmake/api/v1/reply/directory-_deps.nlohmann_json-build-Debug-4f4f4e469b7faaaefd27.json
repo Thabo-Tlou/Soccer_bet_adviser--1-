@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/nlohmann_json-build",
+		"source" : "/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-src"
+	}
+}

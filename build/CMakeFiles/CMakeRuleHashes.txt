@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+6df1e01bbacebaebce257c8a8e1b145e .qt/rcc/qrc_sba_icons.cpp
+2e1cdc19d8f28cf77fd007c126095480 CMakeFiles/SoccerBetAdviser_autogen
+2e1cdc19d8f28cf77fd007c126095480 CMakeFiles/sba_api_tests_autogen
+978bac471cae4636b98906410d1208af SoccerBetAdviser_autogen/timestamp
+631183bed1c2301e4d9242affb0060c5 sba_api_tests_autogen/timestamp

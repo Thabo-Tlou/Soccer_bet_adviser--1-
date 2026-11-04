@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e3513e1db6755a8733bd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "_deps/nlohmann_json-build",
+					"jsonFile" : "directory-_deps.nlohmann_json-build-Debug-4f4f4e469b7faaaefd27.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build/_deps/nlohmann_json-src"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SoccerBetAdviser",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "nlohmann_json",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SoccerBetAdviser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SoccerBetAdviser-Debug-39fb444e1fcefb59f76f.json",
+					"name" : "SoccerBetAdviser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SoccerBetAdviser_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SoccerBetAdviser_autogen-Debug-220066db20a843d2d419.json",
+					"name" : "SoccerBetAdviser_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SoccerBetAdviser_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SoccerBetAdviser_autogen_timestamp_deps-Debug-24d1236fda996bc5d4d6.json",
+					"name" : "SoccerBetAdviser_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sba_api_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sba_api_tests-Debug-25fd38967869377b1005.json",
+					"name" : "sba_api_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sba_api_tests_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sba_api_tests_autogen-Debug-0288619dbb818b728317.json",
+					"name" : "sba_api_tests_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sba_api_tests_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sba_api_tests_autogen_timestamp_deps-Debug-e9b7bfa792175a10ccd2.json",
+					"name" : "sba_api_tests_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sba_core::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sba_core-Debug-1cea583a9e54153becd5.json",
+					"name" : "sba_core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sba_sqlite::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sba_sqlite-Debug-2815744c41d88dba058a.json",
+					"name" : "sba_sqlite",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sba_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sba_tests-Debug-eff97d35fcf9f80bd01a.json",
+					"name" : "sba_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/build",
+		"source" : "/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/Soccer_bet_adviser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

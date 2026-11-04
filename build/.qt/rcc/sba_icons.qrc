@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="icons/chevron-down.svg">/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/Soccer_bet_adviser/assets/icons/chevron-down.svg</file>
+    <file alias="icons/check.svg">/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/Soccer_bet_adviser/assets/icons/check.svg</file>
+    <file alias="icons/chevron-down-dark.svg">/home/osboxes/Documents/GitHub/Soccer_bet_adviser--1-/Soccer_bet_adviser/assets/icons/chevron-down-dark.svg</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20261102-1115-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.31.6"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="osboxes"
+	OSRelease="6.14.0-15-generic"
+	OSVersion="#15-Ubuntu SMP PREEMPT_DYNAMIC Sun Apr  6 15:05:05 UTC 2025"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="78"
+	ModelName="Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="1"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="4095"
+	TotalPhysicalMemory="5986"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2496"
+	>
+	<Testing>
+		<StartDateTime>Nov 02 06:15 EST</StartDateTime>
+		<StartTestTime>1793618144</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 02 06:15 EST</EndDateTime>
+		<EndTestTime>1793618144</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
